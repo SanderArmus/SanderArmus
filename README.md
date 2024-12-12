@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SanderArmus
+- 👋 Hi, I’m @Sander Armus
 - 👀 I’m interested in learning to code like pro.
 - 🌱 I’m currently learning software development in Kuressaare Ametikool.
 - 📫 How to reach me
